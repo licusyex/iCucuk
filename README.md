@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icucuk&show_icons=true&locale=en" alt="icucuk" /></p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/571409617620303881?hideDiscrim=true)](https://discord.com/users/571409617620303881)
+[![Discord Presence](https://lanyard.cnrad.dev/api/571409617620303881)](https://discord.com/users/571409617620303881)
