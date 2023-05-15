@@ -5,6 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icucuk" alt="icucuk" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+[![Discord Presence](https://lanyard.cnrad.dev/api/571409617620303881)](https://discord.com/users/571409617620303881)
 <p align="left">
 </p>
 
