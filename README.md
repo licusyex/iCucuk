@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/856703129240338442/1123404186772578405/de74nrm-f0ff3a0c-b330-47e6-9412-81a0fc98f9b0.png)
+[!MasterHead](https://cdn.discordapp.com/attachments/856703129240338442/1123404186772578405/de74nrm-f0ff3a0c-b330-47e6-9412-81a0fc98f9b0.png)
 <h1 align="center">Hi 👋, I'm Cucuk</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icucuk&label=Profile%20views&color=0e75b6&style=flat" alt="icucuk" /> </p>
 
