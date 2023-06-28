@@ -5,15 +5,13 @@
 
 #
 
-<img width="30%" align="right" src="https://luppufy.onrender.com/member/571409617620303881">
+<img width="30%" align="right" src="https://luppufy.onrender.com/member/797096076330795018">
 <div align="left" width="100%">
 
 <p align="center">
  <a href="https://discord.com/users/571409617620303881" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/iCucuk" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/2173jcl4jcttvzd34r43aoy3y" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-
-#
 
 <b> Experience <b>
 <samp>
@@ -31,7 +29,7 @@
 
 ## I'm Listening Right Now
 
- <img width="40%" align="left" src="hspotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2173jcl4jcttvzd34r43aoy3y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
+ <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=2173jcl4jcttvzd34r43aoy3y&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
 
 <img  align="right" width="40%" src="https://count.getloli.com/get/@:iCucuk?theme=asoul"> 
 
