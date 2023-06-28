@@ -35,7 +35,7 @@
 
 <img  align="right" width="40%" src="https://count.getloli.com/get/@:iCucuk?theme=asoul"> 
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=vante-xyz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=iCucuk&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
 <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=iCucuk&theme=dark&hide_border=true&stroke=0000&background=0D1117">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icucuk" alt="icucuk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iCucuk" alt="iCucuk" /></a> </p>
