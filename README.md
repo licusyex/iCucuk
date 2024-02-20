@@ -1,8 +1,8 @@
 # Hi there  
-![profile count](https://komarev.com/ghpvc/?username=michelleismm&color=87CEEB)&nbsp;
-[![GitHub Shut](https://img.shields.io/github/followers/shutjs?label=follow&style=social)](https://github.com/shutjs)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=licusyex&color=87CEEB)&nbsp;
+[![GitHub Shut](https://img.shields.io/github/followers/licusyex?label=follow&style=social)](https://github.com/shutjs)&nbsp;
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/669513018777796638)](https://discord.com/users/669513018777796638)
+[![Discord Presence](https://lanyard.cnrad.dev/api/571409617620303881)](https://discord.com/users/571409617620303881)
 
 ## Langauges I Know:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
