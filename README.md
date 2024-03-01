@@ -17,5 +17,5 @@
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=shutjs&theme=radical" />
+<img src="https://github-profile-trophy.vercel.app/?username=licusyex&theme=radical" />
 </p>
