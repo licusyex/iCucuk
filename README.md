@@ -1,6 +1,6 @@
 # Hi there  
 ![profile count](https://komarev.com/ghpvc/?username=licusyex&color=87CEEB)&nbsp;
-[![GitHub Shut](https://img.shields.io/github/followers/licusyex?label=follow&style=social)](https://github.com/shutjs)&nbsp;
+[![GitHub Shut](https://img.shields.io/github/followers/licusyex?label=follow&style=social)](https://github.com/licusyex)&nbsp;
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/571409617620303881)](https://discord.com/users/571409617620303881)
 
